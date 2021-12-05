@@ -22,8 +22,7 @@
 国内
 ```
 git clone https://ghproxy.com/https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
-
-git clone https://ghproxy.com/https://github.com/Dante-LI/nvjdcdocker.git /root/nolanjdc
+ 
 ```
 国外
 ```
